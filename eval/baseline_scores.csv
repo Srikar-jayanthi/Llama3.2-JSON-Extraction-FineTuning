@@ -1,0 +1,21 @@
+filename,raw_output_first_50_chars,is_valid_json,has_all_required_keys,key_accuracy,value_accuracy,notes
+doc_101.txt,Certainly! Here is the extracted information in JS,False,True,1.0,1.0,Prose included
+doc_102.txt,```json {   "vendor": "Test Vendor 102",   "date":,False,False,0.8888888888888888,0.8,Code fences present
+doc_103.txt,```json {   "vendor": "Test Vendor 103",   "invoic,False,True,1.0,1.0,Code fences present
+doc_104.txt,Certainly! Here is the extracted information in JS,False,True,1.0,1.0,Code fences present
+doc_105.txt,Certainly! Here is the extracted information in JS,False,False,0.8888888888888888,0.8,Prose included
+doc_106.txt,Certainly! Here is the extracted information in JS,False,True,1.0,1.0,Code fences present
+doc_107.txt,```json {   "vendor": "Test Vendor 107",   "invoic,False,True,1.0,1.0,Code fences present
+doc_108.txt,Certainly! Here is the extracted information in JS,False,False,0.8888888888888888,0.8,Code fences present
+doc_109.txt,Certainly! Here is the extracted information in JS,False,True,1.0,1.0,Code fences present
+doc_110.txt,Certainly! Here is the extracted information in JS,False,True,1.0,1.0,Prose included
+doc_111.txt,Certainly! Here is the extracted information in JS,False,False,0.875,0.8,Code fences present
+doc_112.txt,```json {   "buyer": "Test Buyer 112",   "supplier,False,True,1.0,1.0,Code fences present
+doc_113.txt,{   "buyer": "Test Buyer 113",   "supplier": "Test,True,True,1.0,1.0,None
+doc_114.txt,```json {   "buyer": "Test Buyer 114",   "supplier,False,False,0.875,0.8,Code fences present
+doc_115.txt,Certainly! Here is the extracted information in JS,False,True,1.0,1.0,Prose included
+doc_116.txt,Certainly! Here is the extracted information in JS,False,True,1.0,1.0,Code fences present
+doc_117.txt,Certainly! Here is the extracted information in JS,False,False,0.875,0.8,Code fences present
+doc_118.txt,Certainly! Here is the extracted information in JS,False,True,1.0,1.0,Code fences present
+doc_119.txt,{   "buyer": "Test Buyer 119",   "supplier": "Test,True,True,1.0,1.0,None
+doc_120.txt,```json {   "buyer": "Test Buyer 120",   "supplier,False,False,0.875,0.8,Code fences present
