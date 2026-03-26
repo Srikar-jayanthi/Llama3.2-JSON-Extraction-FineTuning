@@ -36,4 +36,8 @@ with gr.Blocks(title="Structured Output Extraction Dashboard") as demo:
                     gr.Markdown(load_md(f"eval/failures/failure_{i:02d}.md"))
 
 if __name__ == "__main__":
-    demo.launch(server_name="0.0.0.0", server_port=7860)
+    demo.launch(
+        server_name="0.0.0.0",
+        server_port=7860,
+        share=False
+    )
