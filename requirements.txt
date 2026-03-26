@@ -1,0 +1,4 @@
+gradio
+pandas
+markdown
+jinja2

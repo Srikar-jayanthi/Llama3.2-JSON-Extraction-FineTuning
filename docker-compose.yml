@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+  app:
+    build: .
+    ports:
+      - "7861:7860" # Map to 7861 to avoid common 7860 conflicts
+    volumes:
+      - .:/app
