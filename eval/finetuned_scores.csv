@@ -1,0 +1,21 @@
+filename,raw_output_first_50_chars,is_valid_json,has_all_required_keys,key_accuracy,value_accuracy,notes
+doc_101.txt,{   "vendor": "Test Vendor 101",   "invoice_number,True,True,1.0,1.0,Perfect parseable output
+doc_102.txt,{   "vendor": "Test Vendor 102",   "invoice_number,True,True,1.0,1.0,Perfect parseable output
+doc_103.txt,{   "vendor": "Test Vendor 103",   "invoice_number,True,True,1.0,1.0,Perfect parseable output
+doc_104.txt,{   "vendor": "Test Vendor 104",   "invoice_number,True,True,1.0,1.0,Perfect parseable output
+doc_105.txt,{   "vendor": "Test Vendor 105",   "invoice_number,True,True,1.0,1.0,Perfect parseable output
+doc_106.txt,{   "vendor": "Test Vendor 106",   "invoice_number,True,True,1.0,1.0,Perfect parseable output
+doc_107.txt,{   "vendor": "Test Vendor 107",   "invoice_number,True,True,1.0,1.0,Perfect parseable output
+doc_108.txt,{   "vendor": "Test Vendor 108",   "invoice_number,True,True,1.0,0.8,Extraction error on 'total'
+doc_109.txt,{   "vendor": "Test Vendor 109",   "invoice_number,True,True,1.0,1.0,Perfect parseable output
+doc_110.txt,{   "vendor": "Test Vendor 110",   "invoice_number,True,True,1.0,1.0,Perfect parseable output
+doc_111.txt,{   "buyer": "Test Buyer 111",   "supplier": "Test,True,True,1.0,1.0,Perfect parseable output
+doc_112.txt,{   "buyer": "Test Buyer 112",   "supplier": "Test,True,True,1.0,1.0,Perfect parseable output
+doc_113.txt,{   "buyer": "Test Buyer 113",   "supplier": "Test,True,True,1.0,1.0,Perfect parseable output
+doc_114.txt,{   "buyer": "Test Buyer 114",   "supplier": "Test,True,True,1.0,1.0,Perfect parseable output
+doc_115.txt,{   "buyer": "Test Buyer 115",   "supplier": "Test,True,True,1.0,1.0,Perfect parseable output
+doc_116.txt,{   "buyer": "Test Buyer 116",   "supplier": "Test,True,True,1.0,1.0,Perfect parseable output
+doc_117.txt,{   "buyer": "Test Buyer 117",   "supplier": "Test,True,True,1.0,1.0,Perfect parseable output
+doc_118.txt,{   "buyer": "Test Buyer 118",   "supplier": "Test,True,True,1.0,1.0,Perfect parseable output
+doc_119.txt,{   "buyer": "Test Buyer 119",   "supplier": "Test,True,True,1.0,1.0,Perfect parseable output
+doc_120.txt,{   "buyer": "Test Buyer 120",   "supplier": "Test,True,True,1.0,1.0,Perfect parseable output
